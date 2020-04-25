@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to FX Tracker
 
-I'm glad you are here. I plan to talk about ...
+Your Forex Tracking journey starts here
